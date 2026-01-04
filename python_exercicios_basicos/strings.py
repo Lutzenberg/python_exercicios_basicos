@@ -12,3 +12,6 @@ print(res)
 # Repetir strings com espaços
 res = (s1 + " ") * 1 + (s2 + " ") * 2 + (s3 + " ") * 3
 print(res)
+
+#
+res = (s1 * 2 + s3) * 5
