@@ -6,3 +6,6 @@ print((23 + 19 + 31) / 3)
 
 # Dividir número inteiro
 print(403 // 73)
+
+# Resto da divisao
+print(403 % 73)
