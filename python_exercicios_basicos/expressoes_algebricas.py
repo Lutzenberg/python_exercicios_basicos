@@ -9,3 +9,6 @@ print(403 // 73)
 
 # Resto da divisao
 print(403 % 73)
+
+# Pontencia
+print(2**10)
