@@ -15,3 +15,6 @@ print(2**10)
 
 # Valor Absoluto
 print(abs(54 - 57))
+
+# Menor Valor
+print(min(34, 29, 31))
