@@ -12,3 +12,6 @@ print(403 % 73)
 
 # Pontencia
 print(2**10)
+
+# Valor Absoluto
+print(abs(54 - 57))
